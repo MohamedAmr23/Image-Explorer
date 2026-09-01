@@ -102,6 +102,12 @@ plt.savefig("output/output.png")
 plt.show()
 ```
 
+## Lesson 2 — Image Filters & Blurring
+- [x] Average Blur
+- [x] Gaussian Blur
+- [x] Median Blur
+- [x] Sharpening
+- [x] Adding & Removing Noise
 ---
 
 ## 📸 Sample Output
